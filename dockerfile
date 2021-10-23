@@ -1,1 +1,1 @@
-FROM python:3
+FROM tensorflow/tensorflow:latest-jupyter
